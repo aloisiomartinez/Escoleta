@@ -70,7 +70,7 @@ $ yarn start
 $ git clone https://github.com/aloisiomartinez/Escoleta.git
 
 # Acessar a pasta
-$ cd NLW-1.0/mobile
+$ cd Ecoleta/mobile
 
 # Instalar dependências
 $ yarn install
