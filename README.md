@@ -4,8 +4,6 @@
 
 <div align="center">
 
-
-
 </div>
 
 <h3 align="center">
