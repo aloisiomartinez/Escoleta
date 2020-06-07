@@ -7,5 +7,7 @@
 </div>
 
 <h3 align="center">
-Projeto Open Source desenvolvido na semana Next Level Week da [Rocketseat][https://rocketseat.com.br] utilizando as tecnologias TypeScript, Node, React e React Native.
+  
+Projeto Open Source desenvolvido na semana Next Level Week da [Rocketseat](http://rocketseat.com.br) utilizando as tecnologias TypeScript, Node, React e React Native.
+
 </h3>
