@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido utilizando as tecnologias abaixo:
 
 Para utilizar a aplicação, você precisa ter instalado no seu computador o [Node.js](http://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/).
 
-### Instalar Server(Node.JS) 
+### Instalar Server (Node.JS) 
 
 ```bash
 # Clonar repositório
@@ -78,5 +78,5 @@ $ yarn install
 # Começar a Aplicação
 $ yarn start
 
-# Após o comando,  vai abrir a página do Expo para escanear o qrcode utilizando o Applicativo Expo.
+# Após o comando, a página do Expo irá abrir para escanear o qrcode utilizando o Applicativo Expo.
 ```
