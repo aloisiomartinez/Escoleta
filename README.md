@@ -15,21 +15,23 @@ Projeto Open Source desenvolvido na semana Next Level Week da [Rocketseat](http:
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido utilizando as tecnologias abaixo:
-- [TypeScript][typescript]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [Expo][expo]
-- [React Native][rn]
+- <a href="https://www.typescriptlang.org/">Typescript</a>
+- <a href="https://nodejs.org/en/">Node.JS</a>
+- <a href="https://reactjs.org/">React</a>
+- <a href="https://expo.io/">Expo</a>
+- <a href="https://reactnative.dev/">React Native</a>
 
-## :information_source: How To Use
+## :information_source: Como usar
 
 Para utilizar a aplicação, você precisa ter instalado no seu computador o [Node.js](http://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/).
 
 ### Instalar Server(Node.JS) 
 
 ```bash
+# Clonar repositório
 $ git clone https://github.com/aloisiomartinez/Escoleta.git
 
+# Acessar a pasta
 $ cd Ecoleta/server
 
 # Instalar dependências
@@ -41,34 +43,39 @@ $ npm knex:migrate
 # Rodar Seeds
 $ npm knex:seed
 
+# Começar a aplicação
 $ npm run dev
-
 ```
 
 ### Instalar Web (ReactJS)
 
 ```bash
+# Clonar repositório
 $ git clone https://github.com/aloisiomartinez/Escoleta.git
 
+# Acessar a pasta
 $ cd Ecoleta/web
 
 # Instalar dependências
 $ yarn install
 
-# Run
+# Começar a Aplicação
 $ yarn start
 ```
 
 ### Instalar Mobile (React Native e Expo)
 
 ```bash
+# Clonar repositório
 $ git clone https://github.com/aloisiomartinez/Escoleta.git
 
+# Acessar a pasta
 $ cd NLW-1.0/mobile
 
 # Instalar dependências
 $ yarn install
 
+# Começar a Aplicação
 $ yarn start
 
 # Após o comando,  vai abrir a página do Expo para escanear o qrcode utilizando o Applicativo Expo.
