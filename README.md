@@ -12,7 +12,7 @@ Projeto Open Source desenvolvido na semana Next Level Week da [Rocketseat](http:
 
 </h3>
 
-## :rocket: Tecnologias
+## :rocket:  Tecnologias
 
 Esse projeto foi desenvolvido utilizando as tecnologias abaixo:
 - <a href="https://www.typescriptlang.org/">Typescript</a>
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido utilizando as tecnologias abaixo:
 - <a href="https://expo.io/">Expo</a>
 - <a href="https://reactnative.dev/">React Native</a>
 
-## :information_source: Como usar
+## :information_source:  Como usar
 
 Para utilizar a aplicação, você precisa ter instalado no seu computador o [Node.js](http://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/).
 
